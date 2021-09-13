@@ -1,0 +1,2 @@
+# Flipping-Card-using-python
+I have see a question on youtube and I am very curious to solve it and finally I solve it very clearly. The question is "20 random cards are placed in a row all faces down. A turn consists of taking two adjacent card where the left 1 is faced up and the right one can be faced up or faced down and flipping them both. Show that this process can be terminate.(With all the cards facing up)"  and the solution for this is as follow.
